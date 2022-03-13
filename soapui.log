@@ -1,0 +1,14 @@
+2022-03-14 02:43:28,700 WARN  [SoapUI] Missing folder [C:\Users\Moolya\Desktop\Soapui Project\my-app\ext] for external libraries
+2022-03-14 02:43:28,971 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\Moolya\soapui-settings.xml]
+2022-03-14 02:43:29,978 INFO  [WsdlProject] Loaded project from [file:/C:/Users/Moolya/Desktop/Soapui%20Project/my-app/calculator-soapui-project.xml]
+2022-03-14 02:43:30,210 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [calculator]
+2022-03-14 02:43:30,214 INFO  [SoapUITestCaseRunner] Running Project [calculator], runType = SEQUENTIAL
+2022-03-14 02:43:30,238 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [calc]
+2022-03-14 02:43:30,267 INFO  [SoapUITestCaseRunner] running step [Add - additin]
+2022-03-14 02:43:31,002 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2022-03-14 02:43:31,003 INFO  [SoapUITestCaseRunner] running step [Subtract - Request 1]
+2022-03-14 02:43:31,272 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2022-03-14 02:43:31,272 INFO  [SoapUITestCaseRunner] running step [Multiply - Request 1]
+2022-03-14 02:43:31,542 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2022-03-14 02:43:31,543 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [calc], time taken: 1260ms, status: FINISHED
+2022-03-14 02:43:31,546 INFO  [SoapUITestCaseRunner] Project [calculator] finished with status [FINISHED] in 1324ms

@@ -1,0 +1,15 @@
+Status: FAILED
+Time Taken: 3
+Size: 0
+Timestamp: Mon Mar 14 00:09:23 IST 2022
+TestStep: Place id transfer
+Error:com.eviware.soapui.impl.wsdl.teststeps.PropertyTransferException: error: Unexpected element: CDATA
+
+----------------- Messages ------------------------------
+Error performing transfer [placeid] - error: Unexpected element: CDATA
+----------------------------------------------------
+placeid transferred [[error: Unexpected element: CDATA]] from [Add google map.Response] to [abc.token]
+------------ source path -------------
+place_id
+------------ target path -------------
+
